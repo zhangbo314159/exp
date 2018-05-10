@@ -1,0 +1,35 @@
+﻿#head{
+	background-color: #0080ff;
+	color: white;
+	float: left;
+	text-align: center;
+	font-size: 28px;
+	width: 13%;
+	height: 880px;
+	line-height: 250px;
+	font-weight: bold;
+	margin: 0px;
+	
+}
+.section{
+	font-size: 23px;
+	width: 87%;
+	float: top;
+	height:40px;
+}
+.content{
+	font-size: 20px; 
+	font-weight: normal;
+	line-height: 1.5em;
+	width: 87%;
+	height:150px;
+    float: top;
+}
+.info{
+	margin:10px;
+	font-weight:normal;
+	font-size: 20px;
+}
+.list1{
+	font-weight: bold;
+}
